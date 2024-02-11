@@ -1,8 +1,6 @@
 
-### Hi there 👋 Welcome to my Github! I like to work in Full Stack Development and I'm exploring Data Science and Mchine Learning 😄
+### Hi there 👋 Welcome to my Github! I like to work in Full Stack Development and I'm exploring Data Science and Machine Learning 😄
 >  💻 Full-stack Software Developer | React
-
-[![Linkedin: Srushti Khanje](https://www.linkedin.com/in/srushti-khanje/)
 
 ## ⚡ Technologies
 Talk to me about
