@@ -2,8 +2,7 @@
 ### Hi there 👋 Welcome to my Github! I like to work in Full Stack Development and I'm exploring Data Science and Mchine Learning 😄
 >  💻 Full-stack Software Developer | React
 
-[![Linkedin: Srushti Khanje](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srushti-khanje/)
-
+[![Linkedin: Srushti Khanje](https://www.linkedin.com/in/srushti-khanje/)
 
 ## ⚡ Technologies
 Talk to me about
