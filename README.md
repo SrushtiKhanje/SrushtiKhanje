@@ -1,6 +1,10 @@
 
 ### Hi there 👋 Welcome to my Github! I like to work in Full Stack Development and I'm exploring Data Science and Machine Learning 😄
 >  💻 Full-stack Software Developer | React
+> [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/srushti-khanje"
 
 ## ⚡ Technologies
 Talk to me about
