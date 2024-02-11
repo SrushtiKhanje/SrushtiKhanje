@@ -10,7 +10,8 @@ Talk to me about
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
-- Data preprocessing, manipulation,management and visualization using **Python**
+- Data preprocessing, manipulation,management and visualization using ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+**Python**
 
 <!--
 **SrushtiKhanje/SrushtiKhanje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
