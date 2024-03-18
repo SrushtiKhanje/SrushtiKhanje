@@ -1,5 +1,5 @@
 
-### Hi there 👋  I'm Srushti & Welcome to my Github! I like to work in Full Stack Development and I'm exploring Data Science and Machine Learning 😄
+### Hi there 👋  I'm Srushti & Welcome to my Github! I like to work in Full Stack Development and I'm exploring Data Science. 😄
 >  💻 Full-stack Software Developer | React | [LinkedIn](https://www.linkedin.com/in/srushti-khanje/)
 
 
@@ -7,7 +7,7 @@
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - Backend development using **Express**
-- Making for **Relational Database Management Systems**
+- Making tables for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
