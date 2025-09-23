@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently diving deeper into **React + Node.js** and exploring **cloud architectures** with **AWS**.  
+- 🌱 Currently diving deeper into **React / Angular + Node.js** and exploring **cloud architectures** with **AWS**.  
 - 💻 Passionate about building **scalable, impactful web apps** that solve real-world problems.  
 - 🔭 Working on side projects that blend **AI + Web Development**.  
 - 🎨 Love experimenting with UI/UX to make apps **clean, simple & delightful**.  
