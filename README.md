@@ -1,15 +1,15 @@
 # Hey there! 👋 I'm Srushti  
-✨ Full-Stack Developer | Tech Explorer | Cloud Enthusiast ✨  
+✨ Python Developer | Data & AI Enthusiast | Cloud Explorer ✨  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently diving deeper into **React / Angular + Node.js** and exploring **cloud architectures** with **AWS**.  
-- 💻 Passionate about building **scalable, impactful web apps** that solve real-world problems.  
-- 🔭 Working on side projects that blend **AI + Web Development**.  
-- 🎨 Love experimenting with UI/UX to make apps **clean, simple & delightful**.  
-- 🎯 Goal: To contribute to **open source** and collaborate with devs worldwide.  
-- 😄 Fun fact: I once broke my own app just by fixing a bug — and learned more that day than in a week of tutorials!  
+- 🐍 Transitioning into a Python-first developer focused on Data, AI, and Cloud systems.
+- 📊 Strong foundation in data analysis, statistics, and SQL-based problem solving.
+- 🤖 Currently learning and building with Machine Learning & LLMs.
+- ☁️ Exploring cloud-native architectures (AWS) for scalable data workflows.
+- 🔍 Hands-on experience with EDA, web scraping, and data pipelines.
+- 🎯 Goal: Build intelligent systems that turn raw data into actionable insights.
 
 ---
 
@@ -38,14 +38,21 @@
 
 ---
 
-## ⚡ What I Love to Do
-- 🌐 Frontend Development: Designing **responsive, pixel-perfect interfaces**.  
-- 🔗 Backend Logic: Creating **REST APIs** with **Express & Node.js**.  
-- 📊 Databases: Structuring **relational databases** & writing **optimized queries**.  
-- ☁️ Cloud Stuff: Deploying projects on **AWS** (EC2, S3, Amplify).  
-- 🧩 Debugging: Finding that one missing semicolon that caused 2 hours of chaos.  
+## ⚡ What I’m Building
+- 📊 Exploratory Data Analysis projects (real-world datasets).
+- 🌐 Web scraping pipelines for data collection.
+- 🤖 Beginner ML models (prediction & classification use-cases).
+- 🧠 Early-stage experiments with LLMs + AI apps.
 
 ---
+
+## 🌱 Current Focus
+- Machine Learning algorithms (end-to-end understanding).
+- Statistics for data-driven decision making.
+- Building real-world data + AI projects.
+- Strengthening problem-solving with Python.
+
+--
 
 ## 📈 GitHub Stats  
 
