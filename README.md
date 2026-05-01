@@ -16,11 +16,9 @@
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks**  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)&nbsp;
 
@@ -56,10 +54,6 @@
 
 ---
 
-## 🏆 Achievements & Highlights  
-- 🎉 Contributor @ **GirlScript Summer of Code 2025 (GSSoC'25)**.  
-- 🚀 Built full-stack projects showcasing **React + Node.js + AWS**.  
-- 📚 Always curious: I learn something new every single week.  
 
 ---
 
